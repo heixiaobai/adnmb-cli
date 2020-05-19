@@ -1,0 +1,8 @@
+{
+    "time_format": "%Y/%m/%d %H:%M:%S",
+    "thread_content_line": 4,
+    "default_forum": "-1",
+    "theme": [4,15,30,42],
+    "command_char": ">",
+    "color_file": "default.json"
+}
