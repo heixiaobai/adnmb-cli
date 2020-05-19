@@ -1,6 +1,0 @@
-# A岛匿名版Linux CLI客户端
-
-这是https://adnmb2.com的第三方客户端
-基于curses库开发，因为curses库的关系，仅限于Linux下使用
-进度：半成品
-能一定程度上正常访问，但还有一些Bug与功能有待更新处理
